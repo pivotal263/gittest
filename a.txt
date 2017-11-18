@@ -3,6 +3,8 @@ add a new remote branch
 在master作的修改，直接提交
 
 ifjldanuc edits
+nuc edits
+>>>>>>> 在dev_1118上直接 git push
 
 mac mac
 mac edits again
@@ -30,7 +32,6 @@ f;da;s
 f;wef
 kfwlf
 fwefj
-
 
 faf;jaowejgiowg
 fjokewjopf
